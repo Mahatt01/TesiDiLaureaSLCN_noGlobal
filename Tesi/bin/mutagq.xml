@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<labels xmlns="http://mulan.sourceforge.net/labels">
+<label name="http://dl-learner.org/mutagenesis#RingStructure">
+<label name="http://dl-learner.org/mutagenesis#Phenanthrene"/>
+<label name="http://dl-learner.org/mutagenesis#Ball3"/>
+<label name="http://dl-learner.org/mutagenesis#Ring_size_5"/>
+<label name="http://dl-learner.org/mutagenesis#Hetero_aromatic_5_ring"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon_6_ring"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon_5_aromatic_ring"/>
+<label name="http://dl-learner.org/mutagenesis#Nitro"/>
+<label name="http://dl-learner.org/mutagenesis#Ring_size_6"/>
+<label name="http://dl-learner.org/mutagenesis#Anthracene"/>
+<label name="http://dl-learner.org/mutagenesis#Hetero_aromatic_6_ring"/>
+<label name="http://dl-learner.org/mutagenesis#Methyl"/>
+<label name="http://dl-learner.org/mutagenesis#Benzene"/>
+</label>
+<label name="http://dl-learner.org/mutagenesis#Atom">
+<label name="http://dl-learner.org/mutagenesis#Molybdenum"/>
+<label name="http://dl-learner.org/mutagenesis#Zinc"/>
+<label name="http://dl-learner.org/mutagenesis#Copper"/>
+<label name="http://dl-learner.org/mutagenesis#Oxygen">
+<label name="http://dl-learner.org/mutagenesis#Oxygen-45"/>
+<label name="http://dl-learner.org/mutagenesis#Oxygen-51"/>
+<label name="http://dl-learner.org/mutagenesis#Oxygen-52"/>
+<label name="http://dl-learner.org/mutagenesis#Oxygen-42"/>
+<label name="http://dl-learner.org/mutagenesis#Oxygen-49"/>
+<label name="http://dl-learner.org/mutagenesis#Oxygen-40"/>
+<label name="http://dl-learner.org/mutagenesis#Oxygen-50"/>
+<label name="http://dl-learner.org/mutagenesis#Oxygen-41"/>
+</label>
+<label name="http://dl-learner.org/mutagenesis#Phosphorus"/>
+<label name="http://dl-learner.org/mutagenesis#Nitrogen">
+<label name="http://dl-learner.org/mutagenesis#Nitrogen-38"/>
+<label name="http://dl-learner.org/mutagenesis#Nitrogen-36"/>
+<label name="http://dl-learner.org/mutagenesis#Nitrogen-35"/>
+<label name="http://dl-learner.org/mutagenesis#Nitrogen-34"/>
+<label name="http://dl-learner.org/mutagenesis#Nitrogen-31"/>
+<label name="http://dl-learner.org/mutagenesis#Nitrogen-32"/>
+</label>
+<label name="http://dl-learner.org/mutagenesis#Mercury"/>
+<label name="http://dl-learner.org/mutagenesis#Manganese"/>
+<label name="http://dl-learner.org/mutagenesis#Barium"/>
+<label name="http://dl-learner.org/mutagenesis#Tin"/>
+<label name="http://dl-learner.org/mutagenesis#Krypton"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon">
+<label name="http://dl-learner.org/mutagenesis#Carbon-28"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon-194"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon-16"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon-25"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon-27"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon-14"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon-29"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon-10"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon-19"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon-232"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon-195"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon-21"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon-230"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon-26"/>
+<label name="http://dl-learner.org/mutagenesis#Carbon-22"/>
+</label>
+<label name="http://dl-learner.org/mutagenesis#Chlorine">
+<label name="http://dl-learner.org/mutagenesis#Chlorine-93"/>
+</label>
+<label name="http://dl-learner.org/mutagenesis#Fluorine">
+<label name="http://dl-learner.org/mutagenesis#Fluorine-92"/>
+</label>
+<label name="http://dl-learner.org/mutagenesis#Arsenic"/>
+<label name="http://dl-learner.org/mutagenesis#Calcium"/>
+<label name="http://dl-learner.org/mutagenesis#Vanadium"/>
+<label name="http://dl-learner.org/mutagenesis#Iodine">
+<label name="http://dl-learner.org/mutagenesis#Iodine-95"/>
+</label>
+<label name="http://dl-learner.org/mutagenesis#Sulfur">
+<label name="http://dl-learner.org/mutagenesis#Sulfur-72"/>
+</label>
+<label name="http://dl-learner.org/mutagenesis#Hydrogen">
+<label name="http://dl-learner.org/mutagenesis#Hydrogen-1"/>
+<label name="http://dl-learner.org/mutagenesis#Hydrogen-8"/>
+<label name="http://dl-learner.org/mutagenesis#Hydrogen-3"/>
+</label>
+<label name="http://dl-learner.org/mutagenesis#Sodium"/>
+<label name="http://dl-learner.org/mutagenesis#Tellurium"/>
+<label name="http://dl-learner.org/mutagenesis#Titanium"/>
+<label name="http://dl-learner.org/mutagenesis#Bromine">
+<label name="http://dl-learner.org/mutagenesis#Bromine-94"/>
+</label>
+<label name="http://dl-learner.org/mutagenesis#Gallium"/>
+<label name="http://dl-learner.org/mutagenesis#Lead"/>
+<label name="http://dl-learner.org/mutagenesis#Selenium"/>
+</label>
+<label name="http://dl-learner.org/mutagenesis#Bond">
+<label name="http://dl-learner.org/mutagenesis#Bond-4"/>
+<label name="http://dl-learner.org/mutagenesis#Bond-7"/>
+<label name="http://dl-learner.org/mutagenesis#Bond-2"/>
+<label name="http://dl-learner.org/mutagenesis#Bond-5"/>
+<label name="http://dl-learner.org/mutagenesis#Bond-1"/>
+<label name="http://dl-learner.org/mutagenesis#Bond-3"/>
+</label>
+<label name="http://dl-learner.org/mutagenesis#Compound"/>
+</labels>

@@ -1,0 +1,4 @@
+java -Xmx4096m -cp weka.jar;mulan.jar;SLCN_noGlobal.jar;commons-lang3-3.9.jar;. Tesislcn -arff dataset.arff -xml xmldataset.xml -unlabeled test.arff
+
+
+
