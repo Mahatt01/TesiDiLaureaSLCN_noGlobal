@@ -1,0 +1,4 @@
+Una volta effettuata la procedura di Feature Selection seguire i seguenti passi:
+1) Eseguire Tesilcn con il file ARFF risultante dalla procedura di feature selection e il file XML iniziale
+2) Dopo pochi secondi dovrebbe uscire un messaggio di errore con le label presenti nel file XML che invece non sono presenti nel file ARFF
+3) Rimuovere dal file XML le label elencate manualmente, facendo attenzione a mantenere le gerarchie presenti
